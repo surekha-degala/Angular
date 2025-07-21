@@ -1,0 +1,14 @@
+.div{
+  background-color: rgb(126, 169, 204);
+  padding: 50px;
+
+}
+h1{
+    color: rgb(32, 6, 126);
+    font-size: 20px;
+}
+p {
+    color: rgb(14, 8, 92);
+    font: italic 16px Arial, sans-serif;
+    font-weight: bold;
+}
