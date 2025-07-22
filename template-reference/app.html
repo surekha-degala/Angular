@@ -1,0 +1,5 @@
+<div>
+  <p #myname> Suku</p>
+  <input type = "text" #takinginput ngModel>
+  <button [disabled] = "takinginput.value.length === 0" (click)="onClick(takinginput, myname)">Click Me</button>
+</div>
